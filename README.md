@@ -26,7 +26,6 @@ Microsoft Defender
 Nessus Vulnerability Scanning
 
 Portfolio Deliverables
-✔ System Security Plan (SSP)
 ✔ CMMC Level 1 Practice Matrix
 ✔ Interview / Examine / Test (IET) Workbook
 ✔ Evidence Checklist
